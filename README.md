@@ -1,3 +1,6 @@
+# This Project is already deployed in vercel
+# Link : https://pokemon-app-eta-orcin.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
