@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+  overflow: hidden;
+  font-family: 'Roboto Slab', serif;
+}
+
+.card-wrapper {
+  border-radius: 15px;
+  box-shadow: 0 10px 10px rgba(0,0,0,.1);
+  align-items: center;
+  width: 80%;
+} 
+
+.img-poke {
+  width: 80%;
+  height: 80%;
+}
+
+.card-detail-wrapper {
+  border-radius: 15px;
+  box-shadow: 0 10px 10px rgba(0,0,0,.1);
+  align-items: center;
+  width: 80%;
+}
